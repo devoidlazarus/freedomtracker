@@ -10,7 +10,7 @@ var simplemaps_worldmap_mapdata={
     //State defaults
     state_description: "State description",
     state_color: "#88A4BC",
-    state_hover_color: "#3B729F",
+    state_hover_color: "#477ca9",
     state_url: "http://simplemaps.com",
     border_size: 1.5,
     all_states_inactive: "no",
@@ -147,8 +147,9 @@ var simplemaps_worldmap_mapdata={
     },
     CA: {
       name: "Canada",
-      description: "Legal since 1969.",
-      hover_color: "Red"
+      color: "#008000",
+      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Canada",
+      description: "Homosexuality legal since 1969. Gay marriage legal since 2005. Sexual orientation and gender identity protected from discrimination since 2017."
     },
     CH: {
       name: "Switzerland"
@@ -247,7 +248,10 @@ var simplemaps_worldmap_mapdata={
       name: "Greece"
     },
     GL: {
-      name: "Greenland"
+      name: "Greenland",
+      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Greenland",
+      color: "#dede00",
+      description: "Homosexuality legalized in 1933. Same sex marriage legalized in 2016. Sexual orientation protected from discrimination somewhat, but not entirely. There are no protections against gender identity discrimination."
     },
     GT: {
       name: "Guatemala"
@@ -358,7 +362,10 @@ var simplemaps_worldmap_mapdata={
       name: "Madagascar"
     },
     MX: {
-      name: "Mexico"
+      name: "Mexico",
+      color: "#dede00",
+      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Mexico",
+      description: "Homosexuality legal since 1871. Same sex marriage recognized nationwide. Sexual orientation is protected from discrimination, but not gender identity. LGBT members of the military are not legally barred from joining, but are heavily ostracized if outed while serving."
     },
     MK: {
       name: "Macedonia"
@@ -535,16 +542,13 @@ var simplemaps_worldmap_mapdata={
       name: "Ukraine"
     },
     UY: {
-      name: "Uruguay",
-      description: "Legal since 1934.",
-      hover_color: "Green",
-      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Uruguay"
+      name: "Uruguay"
     },
     US: {
       name: "United States",
-      hover_color: "#dede00",
-      description: "Legal nationwide since 2003.",
-      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_the_United_States"
+      color: "#dede00",
+      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_the_United_States",
+      description: "Homosexuality legal since 2003. Gay marriage legal since 2015. Sexual orientation and gender identity are protected against discrimination under employment since 2020 federally, but many states do not protect either outside of employment. Transgender citizens are banned from joining the military since 2019."
     },
     UZ: {
       name: "Uzbekistan"
@@ -721,13 +725,7 @@ var simplemaps_worldmap_mapdata={
       name: "Canary Islands (Spain)"
     }
   },
-  locations: {
-    paris: {
-      name: "Paris",
-      lat: "48.866666670",
-      lng: "2.333333333"
-    }
-  },
+  locations: {},
   labels: {},
   regions: {
     "0": {
