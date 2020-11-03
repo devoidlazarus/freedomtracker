@@ -1,0 +1,19 @@
+# LGBTQ+ Rights in Afghanistan
+
+## Homosexuality
+Homosexual relations are illegal and punishable by death, in accordance with Sharia Law. [Read more.](https://en.wikipedia.org/wiki/Sharia#LGBT_rights)
+
+## Gender Transition
+There are no known laws allowing one's gender identity to be changed on legal documentation.
+
+## Same-Sex Marriage
+Same-sex relationships are not recognized by the country. ([*Law of Marriage*](http://www.asianlii.org/af/legis/laws/lom1971ogn190p1971080813500517a383/)).
+
+## Same-Sex Adoption
+There are no known laws allowing same-sex couples to adopt children.
+
+## Military
+There are no known laws allowing LGBT+ citizens to openly serve in the military.
+
+## Discrimination Laws
+There are no known laws protecting LGBT+ citizens from discrimination.
