@@ -6,10 +6,10 @@ Homosexual activity [legal since 1969](https://www.canada.ca/en/canadian-heritag
 ## Gender Transition
 Sex and gender identity [can be change in legal documents freely](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/identity-management/sex-designation/change-sex-designation-reasons-other-than-clerical-administrative-error.html).
 
-## Same-sex Marriage
+## Same-Sex Marriage
 Same-sex marriage legal since 2005 ([*House Government Bill C-38*](https://www.parl.ca/LegisInfo/BillDetails.aspx?Language=en&Mode=1&billId=1585203)).
 
-## Same-sex Adoption
+## Same-Sex Adoption
 Same-sex adoption is legal across the country since 2011. It has been legalized on a per-province basis:
 * Legal in British Columbia since 1996 ([*BILL 51 -- 1995: ADOPTION ACT*](https://www.leg.bc.ca/Pages/BCLASS-Legacy.aspx#/content/legacy/web/35th4th/3rd_read/gov51-3.htm)).
 * Legal in Ontario since 1999 ([*Bill 5, Amendments Because of the Supreme Court of Canada Decision in M. v. H. Act, 1999*](https://www.ola.org/en/legislative-business/bills/parliament-37/session-1/bill-5)).
@@ -25,7 +25,7 @@ Same-sex adoption is legal across the country since 2011. It has been legalized 
 * Legal in Prince Edward Island since 2009 ([*Bill No. 33*](https://web.archive.org/web/20181005195445/http://www.assembly.pe.ca/bills/pdf_chapter/63/2/chapter-8.pdf)).
 * Legal in Nunavut since 2011 ([*CONSOLIDATION OF ADOPTION ACT*](https://web.archive.org/web/20160208050417/https://www.canlii.org/en/nu/laws/stat/snwt-nu-1998-c-9/75143/snwt-nu-1998-c-9.html)).
 
-## MIlitary
+## Military
 LGBT citizens can serve openly in the military since 1992 (with the [cancellation and removal of CFAO 19-20](http://lgbtpurge.com/wp-content/uploads/2018/02/CFAO-19-20-English-and-French.pdf)).
 
 ## Discrimination Laws
