@@ -1,4 +1,5 @@
-## Welcome to the Fight for Freedom.
+# Welcome to FreedomTracker.
+## An easy-to-use map documenting LGBT+ rights around the world.
 Hover over a continent below to get started.
 
 <script type="text/javascript" src="mapdata.js"></script>		
