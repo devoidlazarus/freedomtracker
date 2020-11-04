@@ -71,19 +71,34 @@ var simplemaps_worldmap_mapdata={
   },
   state_specific: {
     AF: {
-      name: "Afghanistan"
+      name: "Afghanistan",
+      color: "#ef0000",
+      description: "Homosexuality is illegal and punishable by death. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Afghanistan"
     },
     AO: {
-      name: "Angola"
+      name: "Angola",
+      color: "#dede00",
+      description: "Homosexuality has been legal since 2019. Gender identity cannot be changed on legal documentation. Same-sex marriages are not recognized. Same-sex adoption is not allowed. Discrimination on the basis of sexual orientation has been illegal since 2019.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Angola"
     },
     AL: {
-      name: "Albania"
+      name: "Albania",
+      color: "#dede00",
+      description: "Homosexuality legal since 1995. Same-sex marriage is not recognized. LGBT+ civilians allowed to serve openly since 2008. Sexual identity and gender identity are legally protected from discrimination.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Albania"
     },
     AE: {
-      name: "United Arab Emirates"
+      name: "United Arab Emirates",
+      description: "Homosexuality is illegal and punishable by death. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      color: "#ef0000",
+      url: "https://devoidlazarus.github.io/freedomtracker/United_Arab_Emirates"
     },
     AR: {
-      name: "Argentina"
+      name: "Argentina",
+      color: "#dede00",
+      description: "Homosexuality legal since 1887. Gender identity can be changed on legal documentation since 2012. Same-sex marriages recognized since 2010. Same-sex adoptions allowed since 2010. LGBT+ civilians allowed to openly serve in the military since 2009. There are no national laws protecting sexual orientation or gender identity from discrimination.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Argentina"
     },
     AM: {
       name: "Armenia"
@@ -148,8 +163,8 @@ var simplemaps_worldmap_mapdata={
     CA: {
       name: "Canada",
       color: "#008000",
-      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Canada",
-      description: "Homosexuality legal since 1969. Gay marriage legal since 2005. Sexual orientation and gender identity protected from discrimination since 2017."
+      url: "https://devoidlazarus.github.io/freedomtracker/Canada",
+      description: "Homosexuality legal since 1969. Gender identity can be legally changed. Gay adoption legal across all provinces since Gay marriage legal since 2005. Sexual orientation and gender identity protected from discrimination since 2017."
     },
     CH: {
       name: "Switzerland"
@@ -249,9 +264,9 @@ var simplemaps_worldmap_mapdata={
     },
     GL: {
       name: "Greenland",
-      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Greenland",
+      url: "https://devoidlazarus.github.io/freedomtracker/Greenland",
       color: "#dede00",
-      description: "Homosexuality legalized in 1933. Same sex marriage legalized in 2016. Sexual orientation protected from discrimination somewhat, but not entirely. There are no protections against gender identity discrimination."
+      description: "Homosexuality legalized in 1933. Gender identity can be freely changed in legal documents. Same sex marriage legalized in 2015. Same-sex adoption legalized in 2016. LGBT+ citizens can serve openly in the military since 1978. Hate speech motivated by sexuality criminalized. There are no protections against gender identity discrimination nor sexuality discrimination in the workplace."
     },
     GT: {
       name: "Guatemala"
@@ -364,7 +379,7 @@ var simplemaps_worldmap_mapdata={
     MX: {
       name: "Mexico",
       color: "#dede00",
-      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_Mexico",
+      url: "https://devoidlazarus.github.io/freedomtracker/Mexico",
       description: "Homosexuality legal since 1871. Same sex marriage recognized nationwide. Sexual orientation is protected from discrimination, but not gender identity. LGBT members of the military are not legally barred from joining, but are heavily ostracized if outed while serving."
     },
     MK: {
@@ -547,8 +562,8 @@ var simplemaps_worldmap_mapdata={
     US: {
       name: "United States",
       color: "#dede00",
-      url: "https://en.wikipedia.org/wiki/LGBT_rights_in_the_United_States",
-      description: "Homosexuality legal since 2003. Gay marriage legal since 2015. Sexual orientation and gender identity are protected against discrimination under employment since 2020 federally, but many states do not protect either outside of employment. Transgender citizens are banned from joining the military since 2019."
+      url: "https://devoidlazarus.github.io/freedomtracker/United_States",
+      description: "Homosexuality legal since 2003. Gender identity can be legally changed in some states, but not all. Gay marriage and adoption legal since 2015. Sexual orientation and gender identity are protected against discrimination under employment since 2020 federally, but many states do not protect either outside of employment. Transgender citizens are banned from joining the military since 2019."
     },
     UZ: {
       name: "Uzbekistan"
