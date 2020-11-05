@@ -16,7 +16,7 @@ Same-sex relationships are not recognized by the country, with both the Federati
 There are no known laws allowing same-sex couples to adopt children.
 
 ## Military
-There are no known laws allowing LGBT+ citizens to openly serve in the military.
+LGB citizens can serve openly in the military.
 
 ## Discrimination Laws
 LGBT+ citizens have been protected under anti-discrimination laws since 2003. As of 2016, the country has implemented [better protections](https://soc.ba/en/better-protection-of-lgbti-persons-through-the-amendments-to-the-anti-discrimination-law-of-bih/) for those discriminated against on the basis of sexual orientation and gender identity.
