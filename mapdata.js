@@ -101,64 +101,124 @@ var simplemaps_worldmap_mapdata={
       url: "https://devoidlazarus.github.io/freedomtracker/Argentina"
     },
     AM: {
-      name: "Armenia"
+      name: "Armenia",
+      color: "#dede00",
+      description: "Homosexuality legal since 2003. Same-sex marriage is banned. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly. There are no discrimination protections for LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Armenia"
     },
     AU: {
-      name: "Australia"
+      name: "Australia",
+      color: "#008000",
+      description: "Homosexuality legal since 1997. Gender identity can be changed on legal documentation in all jurisdictions. Same-sex marriage recognized since 2017. Same-sex adoption allowed since 2018. LGBT+ civilians allowed to openly serve since 2010. LGBT+ peoples protected from discrimination since 2013.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Australia"
     },
     AT: {
-      name: "Austria"
+      name: "Austria",
+      color: "#008000",
+      description: "Homosexuality legal since 1971. Gender identity can be freely changed on legal documentation. Same-sex marriage recognized since 2019. Same-sex adoption allowed since 2016. LGBT+ civilians allowed to openly serve. LGBT+ persons protected from discrimination since 2004.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Austria"
     },
     AZ: {
-      name: "Azerbaijan"
+      name: "Azerbaijan",
+      color: "#dede00",
+      description: "Homosexuality legal since 2000. Gender identity cannot be changed on legal documents. Same-sex marriages are not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot openly serve in the military. There are no anti-discrimination protections for LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Azerbaijan"
     },
     BI: {
-      name: "Burundi"
+      name: "Burundi",
+      color: "#ef0000",
+      description: "Homosexuality illegal since 2009 and is punishable by imprisonment. Gender identity cannot be changed on legal documentation. Same-sex marriage banned since 2005. Same-sex adoption not allowed. LGBT+ civilians cannot serve openly in the military. There are no anti-discrimination protections against LGBT+ civilians.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Burundi"
     },
     BE: {
-      name: "Belgium"
+      name: "Belgium",
+      color: "#008000",
+      description: "Homosexuality legal since 1795. Gender identity can be changed on legal documentation. Same-sex marriage recognized since 2003. Same-sex adoption allowed since 2006. LGBT+ civilians can serve openly in the military. Anti-discrimination laws have protected LGBT+ people since 2013.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Belgium"
     },
     BJ: {
-      name: "Benin"
+      name: "Benin",
+      color: "#dede00",
+      description: "Homosexuality legal since 1877. Gender identity cannot be changed in legal documentation. Same-sex marriages are not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Benin"
     },
     BF: {
-      name: "Burkina Faso"
+      name: "Burkina Faso",
+      color: "#dede00",
+      description: "Homosexuality legal since 1960. Gender identity cannot be changed on legal documentation. Same-sex marriage has been banned since 1991. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly in the military. There are no anti-discrimination protections for LGBT citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Burkina_Faso"
     },
     BD: {
-      name: "Bangladesh"
+      name: "Bangladesh",
+      color: "#dede00",
+      description: "Homosexuality illegal and can be punished with life imprisonment. Gender identity cannot be changed on legal identification, but hijras are recognized as a third gender. Same-sex relationships are not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly in the military. There are no anti-discrimination laws protecting LGBT+ civilians.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Bangladesh"
     },
     BG: {
-      name: "Bulgaria"
+      name: "Bulgaria",
+      color: "#dede00",
+      description: "Homosexuality legal since 1968. Sex-reassginment surgery required in order to change gender identity on legal documents. Same-sex marriage banned since 1991. Same-sex adoption not allowed. LGBT+ civilians are allowed to serve openly in the military. Anti-discrimination laws have protected LGBT+ citizens since 2015.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Bulgaria"
     },
     BH: {
-      name: "Bahrain"
+      name: "Bahrain",
+      color: "#dede00",
+      description: "Homosexuality legal since 1976. Gender identity cannot be changed on legal documents. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians cannot serve openly in the military. There are no anti-discrimination laws protecting LGBT+ civilians.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Bahrain"
     },
     BA: {
-      name: "Bosnia and Herzegovina"
+      name: "Bosnia and Herzegovina",
+      color: "#dede00",
+      description: "Homosexuality legal since 2003. Sex-reassignment surgery required to change gender identity on legal documents. Same-sex marriages not recognized. Same-sex adoption not allowed. LGB citizens can serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Bosnia_and_Herzegovina"
     },
     BY: {
-      name: "Belarus"
+      name: "Belarus",
+      color: "#dede00",
+      description: "Homosexuality legal since 1994. Gender identity cannot be changed on legal documents. Same-sex marriage is not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot openly serve in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Belarus"
     },
     BZ: {
-      name: "Belize"
+      name: "Belize",
+      color: "#dede00",
+      description: "Homosexuality legal since 2016. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians cannot serve in the military. Anti-discrimination laws in place for cititzens on the basis of sexual identity implemented since 2016.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Belize"
     },
     BO: {
-      name: "Bolivia"
+      name: "Bolivia",
+      color: "#dede00",
+      description: "Homosexuality legal since 1832. Gender identity can be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect citizens on the basis of sexual orientation and gender identity.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Bolivia"
     },
     BR: {
-      name: "Brazil"
+      name: "Brazil",
+      url: "https://devoidlazarus.github.io/freedomtracker/Brazil",
+      color: "#008000",
+      description: "Homosexuality legal since 1830. Gender identity can be changed on legal documents. Same-sex marriage recognized since 2013. Same-sex adoption allowed since 2010. LGBT+ civilians allowed to serve openly in the military. Anti-discrimination laws protect LGBT+ citizens."
     },
     BN: {
-      name: "Brunei Darussalam"
+      name: "Brunei Darussalam",
+      color: "#ef0000",
+      description: "Homosexuality is illegal and punishable by death. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Brunei"
     },
     BT: {
-      name: "Bhutan"
+      name: "Bhutan",
+      color: "#ef0000",
+      description: "Homosexuality has been illegal since 1959. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Bhutan"
     },
     BW: {
-      name: "Botswana"
+      name: "Botswana",
+      color: "#dede00",
+      description: "Homosexuality legal since 2019. Gender identity can be changed on legal documents. Same-sex marriage is not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly in the military. Anti-discrimination laws protect citizens on the basis of sexual orientation.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Botswana"
     },
     CF: {
-      name: "Central African Republic"
+      name: "Central African Republic",
+      color: "#dede00",
+      description: "Homosexuality legal since 1961. Gender identity can be changed on legal documents. Same-sex marriage is not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly in the military. Anti-discrimination laws protect citizens on the basis of sexual orientation.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Central_African_Republic"
     },
     CA: {
       name: "Canada",
@@ -167,19 +227,34 @@ var simplemaps_worldmap_mapdata={
       description: "Homosexuality legal since 1969. Gender identity can be legally changed. Gay adoption legal across all provinces since Gay marriage legal since 2005. Sexual orientation and gender identity protected from discrimination since 2017."
     },
     CH: {
-      name: "Switzerland"
+      name: "Switzerland",
+      color: "#dede00",
+      description: "Homosexuality legal since 1942. Gender identity can be changed on legal documents. Same-sex marriages are not recognized. Same-sex adoption is not allowed. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect citizens on the basis of sexual orientation.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Switzerland"
     },
     CL: {
-      name: "Chile"
+      name: "Chile",
+      color: "#dede00",
+      description: "Homosexuality legal since 1999. Gender identity can be changed on legal documents. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians can serve openly in the military. LGBT+ citizens protected under anti-discrimination laws.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Chile"
     },
     CN: {
-      name: "China"
+      name: "China",
+      color: "#dede00",
+      description: "Homosexuality legal since 1997. Sex-reassignment surgery required in order to change gender identity on legal documents. Same-sex marriage not recognized. Same-sex adoption not allowed. It is unknown if LGBT+ civilians are allowed to serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/China"
     },
     CI: {
-      name: "Côte d'Ivoire"
+      name: "Côte d'Ivoire",
+      color: "#dede00",
+      description: "Homosexuality legal since 1960. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ citizens not allowed to serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Ivory_Coast"
     },
     CM: {
-      name: "Cameroon"
+      name: "Cameroon",
+      color: "#ef0000",
+      description: "Homosexuality has been illegal since 1972 and punishable up to 5 years imprisonment. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Cameroon"
     },
     CD: {
       name: "Democratic Republic of the Congo"
