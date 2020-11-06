@@ -7,7 +7,7 @@ Homosexual relations have been legal since [1960](https://ilga.org/downloads/201
 There are no known laws allowing one's gender identity to be changed on legal documentation.
 
 ## Same-Sex Marriage
-Same-sex relationships are not recognized by the country. ([*Law of Marriage*](http://www.asianlii.org/af/legis/laws/lom1971ogn190p1971080813500517a383/)).
+Same-sex relationships are not recognized by the country. 
 
 ## Same-Sex Adoption
 There are no known laws allowing same-sex couples to adopt children.
