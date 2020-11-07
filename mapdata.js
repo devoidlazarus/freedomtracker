@@ -257,85 +257,166 @@ var simplemaps_worldmap_mapdata={
       url: "https://devoidlazarus.github.io/freedomtracker/Cameroon"
     },
     CD: {
-      name: "Democratic Republic of the Congo"
+      name: "Democratic Republic of the Congo",
+      description: "Homosexuality legal since 1940. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians not allowed to serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Democratic_Republic_of_the_Congo",
+      color: "#dede00"
     },
     CG: {
-      name: "Republic of Congo"
+      name: "Republic of Congo",
+      color: "#dede00",
+      description: "Homosexuality legal since 1940. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians not allowed to serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Republic_of_the_Congo"
     },
     CO: {
-      name: "Colombia"
+      name: "Colombia",
+      color: "#dede00",
+      description: "Homosexuality legal since 1981. Gender identity can be changed on legal documentation. Same-sex marriage recognized since 2016. Same-sex adoption allowed since 2015. LGBT+ civilians allowed to serve openly in the military. Anti-discrimination laws protect citizens on the basis of sexual orientation, but not gender identity.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Colombia"
     },
     CR: {
-      name: "Costa Rica"
+      name: "Costa Rica",
+      color: "#dede00",
+      description: "Homosexuality legal since 1971. Gender identity can be changed on legal documentation. Same-sex marriage recognized since 2020. Same-sex adoption allowed since 2020. There are no anti-discrimination laws explicitly protecting LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Costa_Rica"
     },
     CU: {
-      name: "Cuba"
+      name: "Cuba",
+      color: "#dede00",
+      description: "Homosexuality legal since 1979. Gender identity can be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Cuba"
     },
     CZ: {
-      name: "Czech Republic"
+      name: "Czech Republic",
+      description: "Homosexuality legal since 1962. Sex-reassignment surgery is required for gender identity to be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Czech_Republic",
+      color: "#dede00"
     },
     DE: {
-      name: "Germany"
+      name: "Germany",
+      color: "#008000",
+      description: "Homosexuality legal since 1969. Gender identity can be changed on legal documentation. Same-sex marriages recognized since 2017. Same-sex adoption allowed since 2017. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Germany"
     },
     DJ: {
-      name: "Djibouti"
+      name: "Djibouti",
+      description: "Homosexuality legal since 1995. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians not allowed to serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      color: "#dede00",
+      url: "https://devoidlazarus.github.io/freedomtracker/Djibouti"
     },
     DK: {
-      name: "Denmark"
+      name: "Denmark",
+      color: "#008000",
+      description: "Homosexuality legal since 1933. Gender identity can be changed on legal documentation. Same-sex marriage recognized since 2012. Same-sex adoption allowed since 2010. LGBT+ civilians are allowed to serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Denmark"
     },
     DO: {
-      name: "Dominican Republic"
+      name: "Dominican Republic",
+      color: "#dede00",
+      description: "Homosexuality legal since 1822. Gender identity cannot be changed on legal documentation. Same-sex marriage is not recognized. Same-sex adoption is not allowed. LGBT+ civilians cannot serve openly in the military. There are some anti-discrimination laws that protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Dominican_Republic"
     },
     DZ: {
-      name: "Algeria"
+      name: "Algeria",
+      color: "#ef0000",
+      description: "Homosexuality has been illegal since 1996 and is punishable up to 3 years imprisonment. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Algeria"
     },
     EC: {
-      name: "Ecuador"
+      name: "Ecuador",
+      color: "#dede00",
+      description: "Homosexuality legal since 1997. Gender identity can be changed on legal documentation. Same-sex marriage recognized since 2019. Same-sex adoption not allowed. LGBT+ civilians cannot serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Ecuador"
     },
     EG: {
-      name: "Egypt"
+      name: "Egypt",
+      color: "#ef0000",
+      description: "Homosexuality is illegal and is punishable up to 3 years imprisonment. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Egypt"
     },
     ER: {
-      name: "Eritrea"
+      name: "Eritrea",
+      description: "Homosexuality is illegal and is punishable with death. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Eritrea",
+      color: "#ef0000"
     },
     EE: {
-      name: "Estonia"
+      name: "Estonia",
+      color: "#dede00",
+      description: "Homosexuality legal since 1992. Gender identity can be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect citizens on the basis of sexual orientation.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Estonia"
     },
     ET: {
-      name: "Ethiopia"
+      name: "Ethiopia",
+      description: "Homosexuality is illegal and is punishable with up to 15 years imprisonment. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      color: "#ef0000",
+      url: "https://devoidlazarus.github.io/freedomtracker/Ethiopia"
     },
     FI: {
-      name: "Finland"
+      name: "Finland",
+      color: "#dede00",
+      description: "Homosexuality legal since 1971. Sex-reassignment surgery is required to change gender identity on legal documentation. Same-sex marriage recognized since 2017. Same-sex adoption allowed since 2017. LGBT+ civilians can serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Finland"
     },
     FJ: {
-      name: "Fiji"
+      name: "Fiji",
+      color: "#dede00",
+      description: "Homosexuality legal since 2010. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians cannot serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Fiji"
     },
     GA: {
-      name: "Gabon"
+      name: "Gabon",
+      color: "#dede00",
+      description: "Homosexuality legal since 2020. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Gabon"
     },
     GB: {
-      name: "United Kingdom"
+      name: "United Kingdom",
+      description: "Homosexuality legal since 1982. Gender identity can be changed on legal documentation. Same-sex marriage recognized since 2020. Same-sex adoption allowed since 2013. LGBT+ civilians allowed to serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/United_Kingdom",
+      color: "#008000"
     },
     GE: {
-      name: "Georgia"
+      name: "Georgia",
+      color: "#dede00",
+      description: "Homosexuality legal since 2000. Sex-reassignment surgery required to change gender identity on legal documents. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians cannot serve openly in the military. Anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Georgia"
     },
     GH: {
-      name: "Ghana"
+      name: "Ghana",
+      color: "#ef0000",
+      description: "Homosexuality is illegal and punishable up to 3 years in prison. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Ghana"
     },
     GN: {
-      name: "Guinea"
+      name: "Guinea",
+      color: "#ef0000",
+      description: "Homosexuality is illegal and punishable up to 10 years in prison. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Guinea"
     },
     GM: {
-      name: "The Gambia"
+      name: "The Gambia",
+      color: "#ef0000",
+      description: "Homosexuality is illegal and punishable up to a life sentece in prison. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Gambia"
     },
     GW: {
-      name: "Guinea-Bissau"
+      name: "Guinea-Bissau",
+      color: "#dede00",
+      description: "Homosexuality legal since 1993. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Guinea-Bissau"
     },
     GQ: {
-      name: "Equatorial Guinea"
+      name: "Equatorial Guinea",
+      color: "#dede00",
+      description: "Homosexuality legal since 1963. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Equatorial_Guinea"
     },
     GR: {
-      name: "Greece"
+      name: "Greece",
+      description: "Homosexuality legal since 1951. Forced divorce required to change gender identity on legal documents. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians allowed to serve openly in the military. Some anti-discrimination laws protect LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Greece",
+      color: "#dede00"
     },
     GL: {
       name: "Greenland",
@@ -344,10 +425,16 @@ var simplemaps_worldmap_mapdata={
       description: "Homosexuality legalized in 1933. Gender identity can be freely changed in legal documents. Same sex marriage legalized in 2015. Same-sex adoption legalized in 2016. LGBT+ citizens can serve openly in the military since 1978. Hate speech motivated by sexuality criminalized. There are no protections against gender identity discrimination nor sexuality discrimination in the workplace."
     },
     GT: {
-      name: "Guatemala"
+      name: "Guatemala",
+      color: "#dede00",
+      description: "Homosexuality legal since 1871. There are no laws allowing for gender transition, same-sex marriage, same-sex adoption, and/or LGBT+ civlian military service. There are no protections against discrimination towards LGBT+ people.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Guatemala"
     },
     GY: {
-      name: "Guyana"
+      name: "Guyana",
+      color: "#dede00",
+      description: "Homosexuality illegal and punishable up to 10 years imprisonment. Gender identity cannot be changed on legal documentation. Same-sex marriage not recognized. Same-sex adoption not allowed. LGBT+ civilians can serve openly in the military. There are no anti-discrimination laws protecting LGBT+ citizens.",
+      url: "https://devoidlazarus.github.io/freedomtracker/Guyana"
     },
     HN: {
       name: "Honduras"
