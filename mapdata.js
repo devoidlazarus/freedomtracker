@@ -14,7 +14,7 @@ var simplemaps_worldmap_mapdata={
     state_url: "http://simplemaps.com",
     border_size: 1.5,
     all_states_inactive: "no",
-    all_states_zoomable: "no",
+    all_states_zoomable: "yes",
     
     //Location defaults
     location_description: "Location description",
