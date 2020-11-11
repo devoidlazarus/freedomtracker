@@ -8,6 +8,6 @@ Hover over a continent below to get started.
 <div id="map"></div>
 
 ## How to Use the Map:
-1. Click on any of the continents above.
+1. Click on any of the regions above.
 2. Hover over any country within the continent for a summary of LGBT+ rights within that country.
-3. Click on the country for more details, such as specificities in each law, news articles, legal documents.
+3. Click on the country to zoom in, and click again for more details, such as specificities in each law, news articles, legal documents.
